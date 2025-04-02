@@ -2,3 +2,7 @@
 Assignment repository for UNT CSCE1015
 ## Favorite Linux Command
 $YOUR_FAVORITE_LINUX-COMMAND
+## SFK0042
+
+## Favorite Linux Command
+$echo
